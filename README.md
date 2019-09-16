@@ -26,8 +26,5 @@ Conclusiones
 
 Bibliografía (utilizar Bibtex, al menos 8 referencias Tesis - Libros)
 
-Referencias:
+Referencias
 
-http://www.allitebooks.com/creating-data-stories-with-tableau-public/
-http://www.allitebooks.com/python-2-6-graphics-cookbook/
-http://www.allitebooks.com/r-graphs-cookbook-second-edition/
